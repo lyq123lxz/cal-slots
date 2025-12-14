@@ -1,0 +1,12 @@
+2025-12-14 19:43:29,646 - INFO - Slot machine started
+2025-12-14 19:43:30,149 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\8.jpg
+2025-12-14 19:43:30,645 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\1.jpg
+2025-12-14 19:43:31,146 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\8.jpg
+2025-12-14 19:43:31,646 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\11.jpg
+2025-12-14 19:43:32,145 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\8.jpg
+2025-12-14 19:43:32,650 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\9.jpg
+2025-12-14 19:43:33,137 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\4.jpg
+2025-12-14 19:43:33,642 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\4.jpg
+2025-12-14 19:43:34,142 - DEBUG - Displaying image: d:\Users\Administrator\PycharmProjects\PythonProject9\data\11.jpg
+2025-12-14 19:43:34,438 - INFO - Lost. Last image was 11.jpg
+2025-12-14 19:43:37,182 - WARNING - Slot machine is not running
